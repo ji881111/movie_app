@@ -13,4 +13,4 @@ api : https://yts.am/api 사용.
 
 # Screenshots
 
-<img width="1134" alt="movie_app" src="https://user-images.githubusercontent.com/32053049/52915707-98f6fb00-331a-11e9-805c-753431a5d59e.png">
+<img width="700" alt="movie_app" src="https://user-images.githubusercontent.com/32053049/52915707-98f6fb00-331a-11e9-805c-753431a5d59e.png">
